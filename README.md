@@ -5,6 +5,27 @@ Proyecto de diseño para una aplicacion de eventos en el que los asistentes al e
 
 Diseño con coverFlow para las canciones y un sistema de votación simple en el que se puede escuchar la canción que esta en pantalla.
 
-La Paleta de colores esta generada a partir de este rosa.
-[image]()
+## Paleta de Colores
 
+![](https://github.com/magnoscg/Volume-APP--Sketch/blob/master/Paleta%20De%20Colores.png)
+
+------------------
+
+**Incluyo el archivo .sketch y un pdf con los Artboards que he diseñado.**
+
+------------------
+
+- ## Ejemplo Iphone  
+
+  
+
+
+
+  ![](https://github.com/magnoscg/Volume-APP--Sketch/blob/master/Mis%20eventos.jpg)
+
+
+
+
+- ## Ejemplo Ipad  
+
+  ![](https://github.com/magnoscg/Volume-APP--Sketch/blob/master/Ipad-%20Mis%20eventos.jpg)
