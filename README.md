@@ -7,7 +7,7 @@ Diseño con coverFlow para las canciones y un sistema de votación simple en el 
 
 ## Paleta de Colores
 
-![](https://github.com/magnoscg/Volume-APP--Sketch/blob/master/Paleta%20De%20Colores.png)
+![](https://github.com/magnoscg/Volume-APP--Sketch/blob/master/Imagenes%20Artboards/Paleta%20De%20Colores.png)
 
 ------------------
 
@@ -21,11 +21,11 @@ Diseño con coverFlow para las canciones y un sistema de votación simple en el 
 
 
 
-  ![](https://github.com/magnoscg/Volume-APP--Sketch/blob/master/Mis%20eventos.jpg)
+  ![](https://github.com/magnoscg/Volume-APP--Sketch/blob/master/Imagenes%20Artboards/Mis%20eventos.jpg)
 
 
 
 
 - ## Ejemplo Ipad  
 
-  ![](https://github.com/magnoscg/Volume-APP--Sketch/blob/master/Ipad-%20Mis%20eventos.jpg)
+  ![](https://github.com/magnoscg/Volume-APP--Sketch/blob/master/Imagenes%20Artboards/Ipad-%20Mis%20eventos.jpg)
